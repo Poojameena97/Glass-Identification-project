@@ -1,6 +1,6 @@
 # Glass-Identification-project
 Outline
- Importing libraries
+Importing libraries
 Importing Dataset
 Exploring Dataset
 Preparing Dataset
